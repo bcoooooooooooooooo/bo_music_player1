@@ -1,0 +1,26 @@
+{
+  "theme": {
+    "bg_primary": "#1a1a1e",
+    "bg_secondary": "#232328",
+    "bg_tertiary": "#2a2a30",
+    "bg_hover": "#333339",
+    "accent": "#c20c0c",
+    "accent_light": "#e8432d",
+    "text_primary": "#e8e8e8",
+    "text_secondary": "#a0a0a0",
+    "text_dim": "#666666",
+    "border": "#3a3a40",
+    "progress_bg": "#444444",
+    "progress_fill": "#c20c0c",
+    "scrollbar_bg": "#333339",
+    "scrollbar_handle": "#555555"
+  },
+  "font_sizes": {
+    "title": 18,
+    "subtitle": 14,
+    "normal": 12,
+    "small": 11,
+    "tiny": 9
+  },
+  "background_image": ""
+}

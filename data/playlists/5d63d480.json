@@ -1,0 +1,15 @@
+{
+  "id": "5d63d480",
+  "name": "历史歌曲",
+  "icon": "🎶",
+  "built_in": false,
+  "songs": [
+    {
+      "path": "/home/master/The_road/python_package/music_player/musics/more/Vive la Commune.ogg",
+      "added_at": "2026-05-13T23:52:16.898609"
+    }
+  ],
+  "created_at": "2026-05-13T23:52:07.891110",
+  "updated_at": "2026-05-13T23:52:16.898617",
+  "cover": null
+}
